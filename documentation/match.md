@@ -36,7 +36,7 @@ Sources are listed alphabetically. Entries marked `?` are uncertain.
 | 1431×1075 | VAR, -16 | C-Band Wild Feed |
 | 1858×1024 | -206, 16 | CNN Showbiz (12/24/95) (1:54, 2:58) |
 | 1478×1100 | -25, 2 | Cyber Flash #1 (2:40) |
-| 1450×1100 | -6, -23 | Gamesmaster S5E11 (22:06) |
+| 1450×1100 | -8, -22| Gamesmaster S5E11 (22:06) |
 | 2056×1530 | -56, -238 | Gamesmaster S5E15 (20:43) |
 | 1432×1078 | -17, -12 | GDC 1999 Miyamoto Keynote (7:30) |
 | 1480×1092 | -60, -21 | Promotional Video (Software) (POW) |
