@@ -44,6 +44,11 @@ Sources are listed alphabetically. Entries marked `?` are uncertain.
 | 1460×1074 | -14, -26 | Spaceworld 1995 Nintendo 64 Demonstration - Interview with Miyamoto (Eng sub) |
 | 1390×1027 | 15, 9 | [SuperMarioStadium2] |
 | 1854×1022 | -210, 9 | [スーパーマリオ・スタジアム3 / SuperMarioStadium3] |
+
+
+| Resolution | Offset | Source |
+| --- | --- | --- |
+| 294×219 -> 1340×999 | xxx,xxx | Company report page 1 |
  
 Not yet corrected:
 - ワールドビジネスサテライト (World Business Satellite) 1995年12月
